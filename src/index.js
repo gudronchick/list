@@ -7,8 +7,6 @@ import { Provider } from "react-redux";
 import store from "./store/store";
 import { BrowserRouter } from "react-router-dom";
 
-console.log('wtf')
-
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
